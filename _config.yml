@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: NID-WORKS
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "NID-WORKS"
+url: "https://acarik.github.io"
+baseurl: "/nid-photorama"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://acarik.github.io/nid-photorama/gallery/"  
+  - JOURNAL: "https://acarik.github.io/nid-photorama/journal/"
+  - ABOUT: "https://acarik.github.io/nid-photorama/about/"
 
 # All translation keys
 translations:
