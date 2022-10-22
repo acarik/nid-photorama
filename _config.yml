@@ -35,7 +35,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://acarik.github.io/nid-photorama/gallery/"  
-  - JOURNAL: "https://acarik.github.io/nid-photorama/journal/"
+#  - JOURNAL: "https://acarik.github.io/nid-photorama/journal/"
   - ABOUT: "https://acarik.github.io/nid-photorama/about/"
 
 # All translation keys
